@@ -1,0 +1,9 @@
+{
+    "Core": true,
+    "Media": true,
+    "Blog": true,
+    "Page": true,
+    "Menu": true,
+    "Contact": true,
+    "Account": true
+}

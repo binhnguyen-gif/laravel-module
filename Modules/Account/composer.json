@@ -1,0 +1,23 @@
+{
+    "name": "hozitech/account",
+    "description": "",
+    "authors": [
+        {
+            "name": "Tan Hien",
+            "email": "tanhien.dev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Account\\": ""
+        }
+    }
+}

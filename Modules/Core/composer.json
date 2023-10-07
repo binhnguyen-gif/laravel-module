@@ -1,0 +1,29 @@
+{
+    "name": "hozitech/core",
+    "description": "",
+    "authors": [
+        {
+            "name": "TanHien",
+            "email": "tanhien.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "qirolab/laravel-themer": "^1.7.1",
+        "artesaos/seotools": "^1.0",
+        "kalnoy/nestedset": "^6.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Core\\": ""
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "hozitech/media",
+    "description": "",
+    "authors": [
+        {
+            "name": "Tan Hien",
+            "email": "tanhien.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "spatie/laravel-medialibrary": "^9.12"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Media\\": ""
+        }
+    }
+}
